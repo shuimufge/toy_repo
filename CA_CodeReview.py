@@ -193,8 +193,8 @@ def plot_spacetime(
         fig_size=(
             12,
             12),
-    c_map=plt.cm.Greys,
-    start_time=0,
+        c_map=plt.cm.Greys,
+        start_time=0,
         end_time=None):
     '''
     Plot the simulated spacetime field
